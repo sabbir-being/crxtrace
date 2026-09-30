@@ -13,7 +13,7 @@ export default defineConfig({
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/sabbir-offc/crxtrace",
+          href: "https://github.com/sabbir-being/crxtrace",
         },
         {
           icon: "npm",
@@ -22,7 +22,7 @@ export default defineConfig({
         },
       ],
       editLink: {
-        baseUrl: "https://github.com/sabbir-offc/crxtrace/edit/main/docs/",
+        baseUrl: "https://github.com/sabbir-being/crxtrace/edit/main/docs/",
       },
       lastUpdated: true,
       customCss: ["./src/styles/custom.css"],

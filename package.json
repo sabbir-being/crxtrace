@@ -3,14 +3,14 @@
   "version": "0.2.0",
   "description": "MV3-aware error tracking for Chrome extensions. Service worker lifecycle, content script errors by host, and release health.",
   "license": "MIT",
-  "author": "sabbir-offc (https://github.com/sabbir-offc)",
-  "homepage": "https://github.com/sabbir-offc/crxtrace#readme",
+  "author": "sabbir-being (https://github.com/sabbir-being)",
+  "homepage": "https://github.com/sabbir-being/crxtrace#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sabbir-offc/crxtrace.git"
+    "url": "git+https://github.com/sabbir-being/crxtrace.git"
   },
   "bugs": {
-    "url": "https://github.com/sabbir-offc/crxtrace/issues"
+    "url": "https://github.com/sabbir-being/crxtrace/issues"
   },
   "type": "module",
   "main": "./dist/index.cjs",

@@ -27,7 +27,7 @@ Two things follow from that, and the second matters more:
 :::note
 This is why the demo extension deliberately triggers a "host page error" that
 you should **not** see reported. If you ever do see one, that's a bug worth
-[reporting privately](https://github.com/sabbir-offc/crxtrace/security/advisories/new).
+[reporting privately](https://github.com/sabbir-being/crxtrace/security/advisories/new).
 :::
 
 ## Errors group by host

@@ -145,7 +145,7 @@ npm run demo:ingest
 ```
 
 Every envelope is printed in full as it arrives. You can also read
-[`src/redact.ts`](https://github.com/sabbir-offc/crxtrace/blob/main/src/redact.ts)
+[`src/redact.ts`](https://github.com/sabbir-being/crxtrace/blob/main/src/redact.ts)
 — it's about 60 lines.
 
 ## Related

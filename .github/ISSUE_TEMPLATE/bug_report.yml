@@ -11,7 +11,7 @@ body:
 
         **Do not include a real DSN, API key, or unredacted user data.**
         For a security issue, use
-        [private reporting](https://github.com/sabbir-offc/crxtrace/security/advisories/new)
+        [private reporting](https://github.com/sabbir-being/crxtrace/security/advisories/new)
         instead of this form.
 
   - type: textarea

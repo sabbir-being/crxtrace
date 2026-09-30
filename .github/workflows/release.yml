@@ -11,7 +11,7 @@ name: Release
 # against the trusted publisher configured on the package:
 #
 #   npmjs.com → crxtrace → Settings → Trusted Publisher → GitHub Actions
-#     organization or user: sabbir-offc
+#     organization or user: sabbir-being
 #     repository:           crxtrace
 #     workflow filename:    release.yml
 #

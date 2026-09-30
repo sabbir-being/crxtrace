@@ -15,7 +15,7 @@ only. Once 1.0 ships, this table will list a supported range.
 
 Use GitHub's private vulnerability reporting instead:
 
-> **[Report a vulnerability](https://github.com/sabbir-offc/crxtrace/security/advisories/new)**
+> **[Report a vulnerability](https://github.com/sabbir-being/crxtrace/security/advisories/new)**
 > — or go to the repository's **Security** tab → *Report a vulnerability*.
 
 This creates a private advisory only you and the maintainers can see.

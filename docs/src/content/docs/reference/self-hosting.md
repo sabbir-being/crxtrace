@@ -12,11 +12,11 @@ This page is what you need to build one.
 ## The minimum
 
 An endpoint that accepts `POST`, parses JSON, and answers `2xx`. Start from
-[`examples/ingest-server.mjs`](https://github.com/sabbir-offc/crxtrace/blob/main/examples/ingest-server.mjs)
+[`examples/ingest-server.mjs`](https://github.com/sabbir-being/crxtrace/blob/main/examples/ingest-server.mjs)
 — about 150 lines of dependency-free Node.
 
 ```bash
-git clone https://github.com/sabbir-offc/crxtrace.git
+git clone https://github.com/sabbir-being/crxtrace.git
 cd crxtrace && npm install
 npm run demo:ingest
 ```

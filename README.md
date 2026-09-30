@@ -5,7 +5,7 @@
 **Error tracking that understands Manifest V3.**
 
 [![npm](https://img.shields.io/npm/v/crxtrace?color=0b7285)](https://www.npmjs.com/package/crxtrace)
-[![CI](https://github.com/sabbir-offc/crxtrace/actions/workflows/ci.yml/badge.svg)](https://github.com/sabbir-offc/crxtrace/actions/workflows/ci.yml)
+[![CI](https://github.com/sabbir-being/crxtrace/actions/workflows/ci.yml/badge.svg)](https://github.com/sabbir-being/crxtrace/actions/workflows/ci.yml)
 [![license MIT](https://img.shields.io/badge/license-MIT-0b7285)](LICENSE)
 [![bundle size](https://img.shields.io/bundlejs/size/crxtrace?color=0b7285&label=gzipped)](https://bundlejs.com/?q=crxtrace)
 
@@ -292,7 +292,7 @@ npm run build
 ```
 
 Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Bugs and
-feature requests go in [issues](https://github.com/sabbir-offc/crxtrace/issues);
+feature requests go in [issues](https://github.com/sabbir-being/crxtrace/issues);
 security reports go to [SECURITY.md](SECURITY.md) instead.
 
 ## License
