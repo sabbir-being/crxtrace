@@ -161,7 +161,7 @@ The repository ships a real MV3 extension that triggers each failure mode on
 demand, plus a throwaway server that pretty-prints arriving events:
 
 ```bash
-git clone https://github.com/sabbir-offc/crxtrace.git
+git clone https://github.com/sabbir-being/crxtrace.git
 cd crxtrace
 npm install
 npm run demo:sync     # build the SDK into the demo

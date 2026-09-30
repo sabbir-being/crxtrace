@@ -7,7 +7,7 @@ changes is "does this make MV3 error tracking more accurate?" rather than
 ## Getting set up
 
 ```bash
-git clone https://github.com/sabbir-offc/crxtrace.git
+git clone https://github.com/sabbir-being/crxtrace.git
 cd crxtrace
 npm install
 npm test
@@ -80,7 +80,7 @@ it.
 
 ## Reporting bugs
 
-Open an [issue](https://github.com/sabbir-offc/crxtrace/issues). The most
+Open an [issue](https://github.com/sabbir-being/crxtrace/issues). The most
 useful reports include your `manifest.json` (redacted), which surface the error
 came from, and whether the extension was loaded unpacked or from the store.
 

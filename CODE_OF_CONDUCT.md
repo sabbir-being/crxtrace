@@ -32,7 +32,7 @@ project in public.
 ## Enforcement
 
 Report a problem by sending a private message to
-[@sabbir-offc](https://github.com/sabbir-offc), or via GitHub's
+[@sabbir-being](https://github.com/sabbir-being), or via GitHub's
 [report abuse](https://github.com/contact/report-abuse) flow if the situation
 involves the maintainer.
 

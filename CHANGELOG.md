@@ -88,6 +88,6 @@ Initial public release.
 - **Reference ingest server** in `examples/ingest-server.mjs` and a demo
   extension exercising each failure mode.
 
-[Unreleased]: https://github.com/sabbir-offc/crxtrace/compare/v0.2.0...HEAD
-[0.2.0]: https://github.com/sabbir-offc/crxtrace/compare/v0.1.0...v0.2.0
-[0.1.0]: https://github.com/sabbir-offc/crxtrace/releases/tag/v0.1.0
+[Unreleased]: https://github.com/sabbir-being/crxtrace/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/sabbir-being/crxtrace/compare/v0.1.0...v0.2.0
+[0.1.0]: https://github.com/sabbir-being/crxtrace/releases/tag/v0.1.0

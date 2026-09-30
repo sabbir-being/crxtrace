@@ -220,6 +220,6 @@ createServer(async (req, res) => {
 ```
 
 A fuller version, including lifecycle handling, is
-[`examples/ingest-server.mjs`](https://github.com/sabbir-offc/crxtrace/blob/main/examples/ingest-server.mjs).
+[`examples/ingest-server.mjs`](https://github.com/sabbir-being/crxtrace/blob/main/examples/ingest-server.mjs).
 
 See [Self-hosting](/reference/self-hosting/) for storing and grouping.

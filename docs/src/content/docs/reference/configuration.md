@@ -72,7 +72,7 @@ Default: **auto-detected**
 One of `service_worker`, `content_script`, `popup`, `options`, `sidepanel`,
 `devtools`, `offscreen`, `extension_page`, `unknown`. Only set this if
 detection guesses wrong — and please
-[report it](https://github.com/sabbir-offc/crxtrace/issues) if it does.
+[report it](https://github.com/sabbir-being/crxtrace/issues) if it does.
 
 ## Volume and delivery
 
